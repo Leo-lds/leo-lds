@@ -1,6 +1,6 @@
 ## **$\huge\color{#2aa889}{\textsf{Ahoy!}}$** <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f41d/512.gif" alt="🐝" width="32" height="32">
 $\color{#2aa889}{\textsf{Welcome aboard! I'm Leo a passionate Python Developer.}}$ <img height="32px" src="https://em-content.zobj.net/source/telegram/386/smiling-face-with-sunglasses_1f60e.webp"/>
-$\color{#2aa889}{\textsf{I'm currently sailing through a Systems Analysis and Development course at FMU charting my course towards an exciting career as a Data Engineer!}}$ <br>
+$\color{#2aa889}{\textsf{I'm currently sailing through a Systems Analysis and Development at FMU, charting my course towards an exciting career as a Data Engineer!}}$ 
 $\color{#2aa889}{\textsf{Also, I'm a huge fan of Twenty One Pilots, Spider-Man, Adventure Time and Cats}}$  
 
 <div style="display: inline_block">
