@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**Leo-lds/leo-lds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ahoy! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f41d/512.gif" alt="🐝" width="32" height="32">
+Welcome aboard! I'm **Léo**, a passionate developer navigating the seas of Pythonland
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Leo-lds&show_icons=true&theme=gotham"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Leo-lds&show_icons=true&theme=vue"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Leo-lds&show_icons=true" />
+</picture>
